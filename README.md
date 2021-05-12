@@ -1,6 +1,6 @@
-# Angular and TypeScript Hello World Project
 
-The Hello World project is an Angular 2+ starter project that has the npm modules, 
+# POC - Angular + Electron + SQLite
+Simple projet Angular 2+ that has the npm modules, 
 configuration, scripts and folders and routing in place to make getting started 
 with an Angular project easy!
 
