@@ -1,6 +1,7 @@
 {
   "name": "angular-hello-world",
   "version": "1.0.0",
+  "main": "main.js",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -8,7 +9,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "electron": "ng build --base-href ./ && electron ."
   },
   "private": true,
   "dependencies": {
